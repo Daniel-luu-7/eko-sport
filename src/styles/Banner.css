@@ -1,0 +1,31 @@
+.eko-banner {
+  color: black;
+  text-align: right;
+  padding: 32px;
+  border-bottom: solid 1px black;
+  display: flex;
+  justify-content: flex-end;
+  flex-direction: row;
+  align-items: center;
+}
+
+.eko-title {
+  padding-left: 32px;
+  margin: 0px;
+}
+
+.eko-logo {
+  height: 45px;
+  width: 45px;
+}
+
+.eko-logo-title {
+  display: flex;
+  flex-direction: row;
+}
+
+.eko-description {
+  margin: 0;
+  color: darkgray;
+  font-style: italic;
+}
