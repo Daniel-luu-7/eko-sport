@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/eko-sport/static/css/main.73326985.chunk.css",
+    "main.js": "/eko-sport/static/js/main.01499467.chunk.js",
+    "main.js.map": "/eko-sport/static/js/main.01499467.chunk.js.map",
+    "runtime-main.js": "/eko-sport/static/js/runtime-main.fc207ab4.js",
+    "runtime-main.js.map": "/eko-sport/static/js/runtime-main.fc207ab4.js.map",
+    "static/js/2.4e6f43bf.chunk.js": "/eko-sport/static/js/2.4e6f43bf.chunk.js",
+    "static/js/2.4e6f43bf.chunk.js.map": "/eko-sport/static/js/2.4e6f43bf.chunk.js.map",
+    "index.html": "/eko-sport/index.html",
+    "static/css/main.73326985.chunk.css.map": "/eko-sport/static/css/main.73326985.chunk.css.map",
+    "static/js/2.4e6f43bf.chunk.js.LICENSE.txt": "/eko-sport/static/js/2.4e6f43bf.chunk.js.LICENSE.txt",
+    "static/media/b_corp.51a672e5.svg": "/eko-sport/static/media/b_corp.51a672e5.svg",
+    "static/media/brassiere.ce682484.jpg": "/eko-sport/static/media/brassiere.ce682484.jpg",
+    "static/media/chaussettes.47247bd6.jpg": "/eko-sport/static/media/chaussettes.47247bd6.jpg",
+    "static/media/fair_trade.a2598fc6.svg": "/eko-sport/static/media/fair_trade.a2598fc6.svg",
+    "static/media/legging_motif.495c8b49.jpg": "/eko-sport/static/media/legging_motif.495c8b49.jpg",
+    "static/media/legging_noir.f504af04.jpg": "/eko-sport/static/media/legging_noir.f504af04.jpg",
+    "static/media/origine_france.ee129d90.svg": "/eko-sport/static/media/origine_france.ee129d90.svg",
+    "static/media/tshirt_lifestyle.89043eeb.jpg": "/eko-sport/static/media/tshirt_lifestyle.89043eeb.jpg",
+    "static/media/tshirt_running.c04d779c.jpg": "/eko-sport/static/media/tshirt_running.c04d779c.jpg",
+    "static/media/veste_bleu.0370070c.jpg": "/eko-sport/static/media/veste_bleu.0370070c.jpg",
+    "static/media/veste_running.cae433c8.jpg": "/eko-sport/static/media/veste_running.cae433c8.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fc207ab4.js",
+    "static/js/2.4e6f43bf.chunk.js",
+    "static/css/main.73326985.chunk.css",
+    "static/js/main.01499467.chunk.js"
+  ]
+}
