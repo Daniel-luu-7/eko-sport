@@ -14,8 +14,8 @@ function ClothingItem({ cover, name, price, labels }) {
         src={cover}
         alt={`${name} cover`}
       />
-      <div className="eko-clothing-item-name">{name}</div>
       <Label labels={labels} />
+      <div className="eko-clothing-item-name">{name}</div>
     </li>
   )
 }

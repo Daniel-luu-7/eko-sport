@@ -5,7 +5,7 @@ import '../styles/Label.css'
 
 function Label({ labels }) {
   return (
-    <div>
+    <div className="eko-label-group">
       {labels.map((label, index) =>
         label === 'b_corp' ? (
           <img
